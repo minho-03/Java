@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Lab8 {
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in); 
 
 		boolean keepPlaying = true;
 
